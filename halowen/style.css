@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Pixelify+Sans:wght@400..700&display=swap');
+body {
+    font-family: "Creepster", system-ui;
+    background-image: url(boa1\).png);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-size:cover;
+    height: 100vh;
+    flex-direction: column;
+    color: aliceblue;
+}
+button {
+    border-radius: 10px;
+    background-color: rgb(255, 147, 147);
+    border: none;
+}
